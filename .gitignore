@@ -2,5 +2,4 @@ node_modules/
 
 *.http
 
-# data/bancoDeDadosTeste.js
 *.teste.js
